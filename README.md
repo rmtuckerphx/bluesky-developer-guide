@@ -30,3 +30,6 @@
 ## Tools
 * https://atproto-browser.vercel.app
 * https://pdsls.dev/
+
+## Libraries
+* skyware - https://skyware.js.org

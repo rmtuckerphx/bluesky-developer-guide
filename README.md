@@ -10,10 +10,10 @@
 * `wss://bsky.network/xrpc/com.atproto.sync.subscribeRepos`
 
 ### Jetstream
-* `wss://jetstream1.us-east.bsky.network`
-* `wss://jetstream2.us-east.bsky.network`
-* `wss://jetstream1.us-west.bsky.network`
-* `wss://jetstream2.us-west.bsky.network`
+* `wss://jetstream1.us-east.bsky.network/subscribe`
+* `wss://jetstream2.us-east.bsky.network/subscribe`
+* `wss://jetstream1.us-west.bsky.network/subscribe`
+* `wss://jetstream2.us-west.bsky.network/subscribe`
 * `wss://jetstream2.us-east.bsky.network/subscribe?wantedCollections=app.bsky.feed.post`
 * `wss://jetstream1.us-west.bsky.network/subscribe? wantedDids=did:plc:xxxxx`
 * `wss://jetstream2.us-east.bsky.network/subscribe?wantedCollections=app.bsky.feed.post&wantedCollections=app.bsky.feed.like&wantedDids=did:plc:xxxxx`
@@ -33,6 +33,11 @@
 
 ## Libraries
 * skyware - https://skyware.js.org
+
+## Resources
+* GitHub Jetstream - https://github.com/bluesky-social/jetstream
+* Introducing Jetstream - https://docs.bsky.app/blog/jetstream
+
 
 ## Contributions
 

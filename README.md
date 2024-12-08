@@ -38,6 +38,8 @@
 * GitHub Jetstream - https://github.com/bluesky-social/jetstream
 * Introducing Jetstream - https://docs.bsky.app/blog/jetstream
 
+## Videos
+* [Developer Quick Start to Bluesky, AT Protocol and Jetstream](https://youtu.be/DYc9enmwu5Y?si=R2Mojl9iviS4jtoG)
 
 ## Contributions
 
